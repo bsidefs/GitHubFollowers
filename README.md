@@ -10,5 +10,5 @@ An iOS application the allows you to search profiles on GitHub and view informat
 
 Functionality also includes fetching a user's list of followers from their profile screen, viewing their GitHub.com profile in-app, and favoriting users for quicker access.
 
-\* *This project was part of an iOS course given by https://seanallen.co/.*
+\**This project was part of an iOS course given by https://seanallen.co/.*
 
